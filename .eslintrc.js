@@ -18,5 +18,5 @@ module.exports = {
         "object-curly-spacing": ["error", "always"], // Erzwingt Leerzeichen innerhalb von geschweiften Klammern 
         "array-bracket-spacing": ["error", "never"] // Keine Leerzeichen innerhalb von eckigen Klammern 
     } 
-    }; 
+}; 
     
